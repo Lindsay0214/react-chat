@@ -22,4 +22,4 @@ finally run `npm start`
 https://www.youtube.com/watch?v=k4mjF4sPITE
 
 # Deploy link
-https://6339acc50558fc6ed0238b9c--clever-souffle-188396.netlify.app/login
+https://6339acc50558fc6ed0238b9c--clever-souffle-188396.netlify.app/
